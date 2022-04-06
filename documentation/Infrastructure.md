@@ -12,3 +12,6 @@ Port
 ### S3
 Front end app is deployed into S3 bucket
 url: `http://full-stack-bucket.s3-website-us-east-1.amazonaws.com`
+
+### CircleCi
+CircleCi pipline, when developer pushes to the repo, CircleCi will trigger CI\CD based on config.yml
